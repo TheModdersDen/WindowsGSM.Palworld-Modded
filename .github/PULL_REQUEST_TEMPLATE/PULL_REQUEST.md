@@ -43,4 +43,4 @@ Please check the following items before submitting your fix pull request:
   - [ ] You have assigned the pull request to yourself (unless otherwise specified).
   - [ ] You have added the appropriate labels, milestone, projects, reviewers, and assignees to the pull request.
   - [ ] You have added the appropriate linked issues, PRs, discussions, commits, and checks to the pull request.
-- [ ] Finally, you have tested your fix and verified that it works as intended and thus contributing to the overall goal of the project, which you kept in mind.
+- [ ] Finally, you have tested your fix/feature and verified that it works as intended and thus contributed to the overall goal of the project.
