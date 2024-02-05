@@ -25,7 +25,7 @@
 
 This is a plugin for WindowsGSM that allows you to run a server for the game Palworld with support for the PalworldModdingKit (found [here](https://pwmodding.wiki/)).
 
-This plugin is based on the [WindowsGSM.Palworld](https://github.com/ohmcodes/WindowsGSM.Palworld) plugin, but with extended features and support for auto-downloading and updating of the PalworldModdingKit, as well as automagic public IP retrieval. Credit goes to the original author ([ohmcodes](https://github.com/ohmcodes)) for the base plugin.
+This plugin is based on the [WindowsGSM.Palworld](https://github.com/ohmcodes/WindowsGSM.Palworld) plugin, but with extended features and support for auto-downloading and updating of the PalworldModdingKit, as well as automagic public IPv4 address retrieval. Credit goes to the original author ([ohmcodes](https://github.com/ohmcodes)) for the base plugin.
 
 ### Requirements
 
